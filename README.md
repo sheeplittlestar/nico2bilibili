@@ -1,7 +1,7 @@
 # nico2bilibili
 niconico搬运脚本
 
-1. 安装 youtube-dl  
+1. 安装 youtube-dl, Python3  
 2. 安装 bilibiliupload  
 ```python
 pip install bilibiliupload
@@ -12,6 +12,10 @@ pip install bilibiliupload
  bpassword = b站密码
  nusername = n站用户名
  npassword = n站密码
+```
+4. 运行主体文件 loop.sh
+```shell
+sh loop.sh
 ```
 
 # 禁止  
